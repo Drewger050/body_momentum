@@ -2,6 +2,25 @@
 
 A comprehensive workout tracking application inspired by the Strong fitness app. Track your workouts, monitor your progress, and achieve your fitness goals.
 
+## 🚀 Two Versions Available
+
+### Standalone Version (Recommended for Quick Start)
+**Just want to track workouts? Use the standalone version!**
+- 📄 Single HTML file - `index.html`
+- 🚫 No installation or build process
+- 🌐 Open directly in browser
+- 📱 Works on mobile and desktop
+- 💾 ~35KB total size
+
+**[See STANDALONE.md for details](STANDALONE.md)**
+
+### Full Next.js Version (For Developers)
+- ⚛️ Modern React/Next.js app
+- 🛠️ Full build tooling
+- 📦 Modular components
+- 🎨 Tailwind CSS
+- 🔧 Easy to extend
+
 ## Features
 
 ### Workout Management
