@@ -1,0 +1,161 @@
+╔════════════════════════════════════════════════════════════════╗
+║                    BODY MOMENTUM - QUICK START                 ║
+║                     Standalone HTML Version                    ║
+╚════════════════════════════════════════════════════════════════╝
+
+🚀 GETTING STARTED (3 Easy Steps)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. OPEN THE FILE
+   • Double-click "index.html"
+   • OR right-click → Open With → Your Browser
+
+2. START WORKING OUT
+   • Click "Start Empty Workout"
+   • Add exercises from the library
+   • Track your sets
+
+3. THAT'S IT!
+   • No installation needed
+   • No account required
+   • Works offline
+
+📱 MOBILE SETUP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+iPhone/iPad:
+1. Open index.html in Safari
+2. Tap Share button (□↑)
+3. Tap "Add to Home Screen"
+4. Now it's an app icon!
+
+Android:
+1. Open index.html in Chrome
+2. Tap Menu (⋮)
+3. Tap "Add to Home screen"
+4. Now it's an app icon!
+
+🌐 HOSTING ONLINE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Want to access from any device?
+
+GitHub Pages (Free):
+1. Create GitHub repository
+2. Upload index.html
+3. Enable GitHub Pages
+4. Access at: username.github.io/repo-name
+
+Netlify (Free):
+1. Drag & drop index.html to netlify.com
+2. Get instant URL
+
+Any Web Host:
+• Just upload index.html
+• That's it!
+
+✨ KEY FEATURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Track workouts with exercises and sets
+✓ 24+ built-in exercises
+✓ Rest timer between sets
+✓ Workout history with calendar
+✓ Personal records (PRs)
+✓ Volume tracking charts
+✓ Export data to CSV
+✓ Dark mode
+✓ Works completely offline
+✓ No account needed
+✓ Free forever
+
+💾 BACKUP YOUR DATA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IMPORTANT: Data is stored in your browser!
+
+To backup:
+1. Go to Settings tab
+2. Click "Export Data (CSV)"
+3. Save the file somewhere safe
+
+⚠️  Clearing browser data will delete workouts!
+    Export regularly to be safe.
+
+🎯 QUICK TIPS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• Bookmark the page for quick access
+• Use rest timer for consistent rest periods
+• Check Stats tab to see progress
+• Export data monthly as backup
+• Toggle dark mode in Settings
+
+📊 WHAT YOU CAN TRACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• Weight lifted (lbs)
+• Reps performed
+• Sets completed
+• Workout duration
+• Total volume
+• Personal records
+• Progress over time
+
+🏋️ EXAMPLE WORKOUT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Click "Start Empty Workout"
+2. Name it "Chest Day"
+3. Click "Add Exercise"
+4. Select "Barbell Bench Press"
+5. Click "Add Set"
+6. Enter weight: 135 lbs, reps: 10
+7. Click checkmark when done
+8. Rest timer starts automatically
+9. Add more sets
+10. Add more exercises
+11. Click "Finish Workout"
+
+Done! Your workout is saved.
+
+❓ TROUBLESHOOTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Problem: Page won't load
+Solution: Enable JavaScript in browser
+
+Problem: Data disappeared
+Solution: Check if browser cleared storage
+         Look for CSV backup files
+
+Problem: Can't export data
+Solution: Allow downloads in browser settings
+
+Problem: Looks broken
+Solution: Use modern browser (Chrome, Firefox, Safari)
+
+🔒 PRIVACY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ 100% offline
+✓ No data sent to servers
+✓ No tracking
+✓ No ads
+✓ No account needed
+✓ Your data stays on your device
+
+📝 SUPPORTED BROWSERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Chrome / Edge (Recommended)
+✓ Firefox
+✓ Safari
+✓ Mobile browsers
+
+🎉 YOU'RE READY!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Just open index.html and start tracking your fitness journey!
+
+Questions? Check STANDALONE.md for detailed documentation.
